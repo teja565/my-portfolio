@@ -44,7 +44,7 @@ const Home = () => {
           </div>
 
           <p className="home__text">
-            Passionate CS student skilled in web development with React,
+            Passionate CS student skilled in web development with ReactJS,
             JavaScript, HTML, Git, CSS. Expanding to Express.js and Node.js.
             Completed 10+ front-end projects.
           </p>
