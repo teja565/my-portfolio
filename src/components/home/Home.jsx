@@ -4,7 +4,7 @@ import shapeOne from "../../assets/shape-1.png";
 import shapeTwo from "../../assets/shape-2.png";
 import { FaLinkedin, FaWhatsapp, FaGithub } from "react-icons/fa";
 import "./home.css";
-import CV from "../../assets/Resume_Krishna.pdf";
+import CV from "../../assets/Resume_Krishna Teja.pdf";
 const Home = () => {
   return (
     <section className="home" id="home">
