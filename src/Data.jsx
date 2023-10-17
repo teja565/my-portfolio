@@ -7,6 +7,7 @@ import Project6 from "./assets/project6.jpg";
 import Project7 from "./assets/project7.jpg";
 import Project8 from "./assets/project8.jpg";
 import Project9 from "./assets/project9.jfif";
+import Project10 from "./assets/project10.jpeg";
 
 export const links = [
   {
@@ -212,6 +213,15 @@ export const projects = [
     id: 9,
     img: Project9,
     category: "major",
+    title: "CHECKOUT",
+    description:
+      "Explore my portfolio to access all my significant projects developed using industry-standard technology stacks.",
+    link: "https://github.com/teja565?tab=repositories",
+  },
+  {
+    id: 10,
+    img: Project10,
+    category: "mini",
     title: "CHECKOUT",
     description:
       "Explore my portfolio to access all my significant projects developed using industry-standard technology stacks.",
