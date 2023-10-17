@@ -7,7 +7,7 @@ import Project6 from "./assets/project6.jpg";
 import Project7 from "./assets/project7.jpg";
 import Project8 from "./assets/project8.jpg";
 import Project9 from "./assets/project9.jfif";
-import Project10 from "./assets/project10.jpeg";
+import Project10 from "./assets/project10.jpg";
 
 export const links = [
   {
