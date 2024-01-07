@@ -21,7 +21,7 @@ const Footer = () => {
           </a>
         </div>
         <p className="footer__copyright text-cs">
-          &copy; <span>2023</span> All Rights Reserved.
+          &copy; <span>2024</span> All Rights Reserved.
         </p>
         <p className="footer__copyright text-cs">
           Developed by <span>Krishna Teja</span>
