@@ -236,7 +236,7 @@ export const cv = [
     subtitle: "Kamala Insitute of Technology and Science.",
     date: "2020 - 2024",
     description:
-      "Currently pursuing Bachelor of Technology at Kamala Institute of Technology and Science as Computer Science and Engineering student in 4 Year 1 semester.",
+      "Successfully completed my degree B.Tech under the specialisation of Computer Science & Engineering",
     category: "education",
   },
   //
