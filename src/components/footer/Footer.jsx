@@ -3,6 +3,7 @@ import { FaLinkedin, FaWhatsapp, FaGithub } from "react-icons/fa";
 import "./footer.css";
 
 const Footer = () => {
+  const currentYear = new Date().getFullYear();
   return (
     <footer className="footer">
       <div className="footer__container container grid">
@@ -21,7 +22,7 @@ const Footer = () => {
           </a>
         </div>
         <p className="footer__copyright text-cs">
-          &copy; <span>2024</span> All Rights Reserved.
+          &copy; <span>{currentYear}</span> All Rights Reserved.
         </p>
         <p className="footer__copyright text-cs">
           Developed by <span>Krishna Teja</span>
