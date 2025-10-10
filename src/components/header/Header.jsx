@@ -78,7 +78,7 @@ const Header = () => {
             </ul>
             <div className="header__socials">
               <a
-                href="https://www.linkedin.com/in/krishna-teja-8bb51b20b/"
+                href="https://www.linkedin.com/in/krishna-teja-96716a320/"
                 className="header__social-link"
               >
                 <FaLinkedin />
