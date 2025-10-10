@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="footer__container container grid">
         <div className="footer__socials">
           <a
-            href="https://www.linkedin.com/in/krishna-teja-8bb51b20b/"
+            href="https://www.linkedin.com/in/krishna-teja-96716a320/"
             className="footer__social-link"
           >
             <FaLinkedin />
