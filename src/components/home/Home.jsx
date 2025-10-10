@@ -51,7 +51,7 @@ const Home = () => {
 
           <div className="home__socials">
             <a
-              href="https://www.linkedin.com/in/krishna-teja-8bb51b20b/"
+              href="https://www.linkedin.com/in/krishna-teja-96716a320/"
               className="home__social-link"
             >
               <FaLinkedin />
